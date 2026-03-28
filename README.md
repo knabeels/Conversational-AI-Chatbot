@@ -103,8 +103,8 @@ Every message is stored in `conversation_history` and sent to the LLM on each ca
 
 ## 🖥️ Screenshots
 
-> Add a screenshot of your running app here
-> `![Chatbot Screenshot](screenshot.png)`
+<img width="1710" height="1073" alt="Screenshot 2026-03-28 at 7 52 18 PM" src="https://github.com/user-attachments/assets/ec236832-2d79-4bee-affc-022e20549889" />
+
 
 ---
 
